@@ -1,6 +1,6 @@
-# CPS-MED .github Repo
+# CPS-MED Organization
 
-## med-z* Applications
+## Overview
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
